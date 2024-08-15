@@ -1,0 +1,20 @@
+kontakt:
+  weight: 1
+  title: Jaký je kontakt na organizátory konference?
+  content: "Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontakty jsou v patičce této stránky. IČO: 61389081, sdružení EurOpen.CZ není plátcem DPH."
+cena:
+  weight: 2
+  title: Jaká je cena semináře?
+  content: "Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 400 Kč pro nečleny a 350 Kč pro členy, děti do 4 let zdarma. Ceny ubytování a stravy v přihlašovacím formuláři vycházejí z následujících jednotkových cen: ubytování 390 Kč za noc, snídaně 140 Kč, oběd 180 Kč, večeře 160 Kč, svačina 100 Kč. Bankovní spojení a variabilní symbol platby Vám po kontrole přihlášky bude zaslán e-mailem. Doklad o zaplacení zašleme v rámci vyúčtování po skončení semináře."
+zahrnuje:
+  weight: 3
+  title: Co zahrnuje účastnický poplatek?
+  content: "Vložné, zajištění prostor a materiálu pro aktivity. Ubytování, strava včetně občerstvení o přestávkách jsou hrazeny samostatně."
+adresa:
+  weight: 4
+  title: Adresa semináře
+  content: Zámek Nečtiny, Nečtiny Hrad 1, 331 62, Plzeň-sever, http://www.zameknectiny.cz/
+kapacita:
+  weight: 5
+  title: Kapacita semináře a uzávěrka přihlášek
+  content: Kapacita přednáškového sálu a ubytovací kapacita limitují počet účastníků na 50. Přihlášku proveďte prosím do 16.9.2024.
