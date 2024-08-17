@@ -21,7 +21,7 @@ Mezioborový seminář ve Štědroníně je skvělá příležitost věnovat pá
 
 {{< blocks/lead color="primary" >}}
 
-{{< carousel items="2" height="300" unit="px" duration="3000" >}}
+{{< carousel items="2" height="30" unit="%" duration="3000" >}}
 
 {{< /blocks/lead >}}
 
