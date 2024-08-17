@@ -12,31 +12,18 @@ description: Multioborový seminář Štědronín 6. prosince 2024
   Zapojit se
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
-6. prosince 2024 <a href="https://zvikov.cz/">Štědronín</a>
+6. prosince 2024 <a href="http://zvikov.cz/">Štědronín</a>
 </p>
 <p class="lead mt-3 mb-3">
 Mezioborový seminář ve Štědroníně je skvělá příležitost věnovat páteční odpoledne rozšiřování svých vědomostí a příjemnému setkání.
 <a href="#td-block-3">více o přípravě semináře</a> </p>
 {{< /blocks/cover >}}
 
-{{% blocks/lead color="primary" %}}
-<br>
-{{% cardpane-wide %}}
-  {{% card header="<i class='fab fa-youtube'></i> **Experimenty**" %}}
-  {{< youtubepl id="PLPE6_GTrluAgT_VOeJqvl3RE_tsK7QMTM" title="EurOpen.CZ experiments and creations play list" >}}
-  {{% /card %}}
-  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Pro každého něco**" %}}
-  ![Malování světlem](EurOpen-malovani-svetlem.jpg "")
-  <a href="#td-block-2" class="stretched-link"></a>
-  {{% /card %}}
-  {{% card header="**<i class='fa-solid fa-camera-retro'></i> Foto pískoviště**" %}}
-  ![fotografické pískoviště](piskoviste.jpg "")
-  <a href="https://europen.cz/f" class="stretched-link"></a>
-  {{% /card %}}
-{{% /cardpane-wide %}}
+{{< blocks/lead color="primary" >}}
 
+{{< carousel items="2" height="300" unit="px" duration="3000" >}}
 
-{{% /blocks/lead %}}
+{{< /blocks/lead >}}
 
 {{% blocks/section %}}
 Co bude na programu?
