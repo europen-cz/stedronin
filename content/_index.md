@@ -75,17 +75,31 @@ Jak se mohu podílet na přípravě semináře?
 
 V Nečtinech může být aktivním účastníkem každý. Realizační skupina se ale musí zformovat předem, je třeba vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká už teď složením nápadů, času a nadšenectví*. 
 
-{{% /blocks/section %}}
-
-<!-- your comment text Nested shortcodes with % notation interpret indentation - pre/code block shows up here  -->
-<!-- https://github.com/gohugoio/hugo/issues/11272  -->
-{{% blocks/section %}}
-
-**Programový výbor**
-Zdeněk Šustr, Vladimír Rudolf, Jan Kyčnl, Milan Michajlov
+Programový výbor
+{.h2}
+Zdeněk Šustr
 
 {{% /blocks/section %}}
 
-{{< blocks/section color="white" >}}
-{{% bs/accordion data="main.faq"%}}
+
+{{< blocks/section >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Jaký je kontakt na organizátory konference?**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň, telefon 377 632 804, email europen@europen.cz, ostatní kontakty jsou v patičce této stránky. IČO: 61389081, sdružení EurOpen.CZ není plátcem DPH.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Jaká je cena semináře?**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 400 Kč pro nečleny a 350 Kč pro členy, děti do 4 let zdarma. Ceny ubytování a stravy v přihlašovacím formuláři vycházejí z následujících jednotkových cen: ubytování 390 Kč za noc, snídaně 140 Kč, oběd 180 Kč, večeře 160 Kč, svačina 100 Kč. Bankovní spojení a variabilní symbol platby Vám po kontrole přihlášky bude zaslán e-mailem. Doklad o zaplacení zašleme v rámci vyúčtování po skončení semináře.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
 {{< /blocks/section >}}
