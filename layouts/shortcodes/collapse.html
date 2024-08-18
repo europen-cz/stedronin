@@ -11,8 +11,8 @@
   <!-- prevent common resources from being loaded more than once per page -->
   {{ if not ($.Page.Scratch.Get "collapseLoaded") }}
     {{ $.Page.Scratch.Set "collapseLoaded" 1 }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}/css/collapse.css">
-    <script type="text/javascript" src="{{ .Site.BaseURL }}//js/collapse.js"></script>
+    <link rel="stylesheet" href="/css/collapse.css">
+    <script type="text/javascript" src="/js/collapse.js"></script>
   {{ end}}
   {{.Inner}}
 </div>
