@@ -1,5 +1,5 @@
 # europen.cz conference website
-This is the homepage of [EurOpen.CZ](https://www.europen.cz/) crosstopic seminar 2024 . Live site is here [stedronin.europen.cz](https://stedronin.europen.cz/).
+This is the homepage of [EurOpen.CZ](https://www.europen.cz/) interdisciplinary workshop 2024 . Live site is here [stedronin.europen.cz](https://a.sitera.org/).
 
 # Technical description
 This website is created using the static website generator [HUGO](https://gohugo.io) with the theme [Docsy](https://www.docsy.dev/) and [Bootstrap](https://getbootstrap.com/) toolbox. It is hosted via [Github pages](https://pages.github.com/) using automatic build and publish workflow.
