@@ -1,7 +1,7 @@
 ---
 title: Mezioborový seminář Štědronín
 type: home
-description: Multioborový seminář Štědronín 6. prosince 2024
+description: Mezioborový seminář Štědronín 6. prosince 2024
 ---
 
 {{< blocks/cover title="Mezioborový seminář Štědronín 2024" image_anchor="top" height="auto" >}}
@@ -31,56 +31,30 @@ Co bude na programu?
 
 Formát semináře
 {.h3}
-
-** Tady se pracuje, nečíst **
-
-- **Pátek** možno přijet v pátek večer a účastnit se neformálního setkání u večeře a vyhnout se rannímu cestování.
-- **Sobota** *začátek v 10h, program do večera*, součástí je oběd a večeře. Zámek Nečtiny nabízí nejen učebny, ale i možnost pokusů a
-atrakcí v zámeckém parku, v případě nepříznivého počasí je možné část aktivit přesunout do tělocvičny. Využití členitého parku a malebného okolí zámku na různé technické i netechnické činnosti. Letecký den (drony, hydraulické a pneumatické rakety), večerní cesta k hrobce, různé aktivity
-v parku. Táborák a v případě dobrého počasí pozorování oblohy s odborným výkladem, rojení broučků s lucerničkami či kolektivní tvorba noční fotografie s dlouhou expozicí.
-- **Neděle** *organizovaný program od 9 do 13h*, poté oběd a individuální program podle počasí a situace (okolní houbařské lesy a turistické cíle). Tradiční je také podpora fotografům, sdílené fotografické pískoviště a inspirace pro práci se světlem. [Popis okolí a možných výletů](https://www.zameknectiny.cz/vylety).
+- **Příjezd** seminář začíná v pátek obědem, plánovaný příjezd účastníků je v 11:30h. Seminář je zahájen po obědě ve 13h.
+- **Přednášky** *probíhají od 13h do večeře*.  Součástí programu je přestávka s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
+- **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi).
 
 Program
 {.h3}
-- **Veletrh** Trvalá instalace, předváděčka různého vybavení orientovaného na osvojení moderních
-technologií a získání inspirace. 3D tiskárny, vyšívací stroj, programovatelná ruka, chytré diody,
-robotický bublifuk, Gravitrax a mnoho dalšího. *Máte sami nějakou zajímavou hračku či přístroj?
-Přivezte je a pochlubte se ostatním.* Součástí akce je výstavka různých výrobků a část určená pro
-nejmenší (interaktivní tabule, zvířátková telefonní ústředna).
-- **Workshopy a aktivity** Kratší akce vypsané na konkrétní čas. Doba trvání 30-60 minut. Příklady *přednášek a workshopů* z minulých ročníků:
-• Minecraft, programování v Javě a IoT stavebnice ESPcraft
-• Práce s papírem, výroba hraček a experimentů, recyklace materiálů
-• Mikroskopie, zábavné optické experimenty
-• Nebojte se focení mobilem, pracujeme s dlouhou expozicí
-• Praktická (bio)chemie
-• Jednoduché elektronické obvody, LED svítítka, motůrky a další
-• Kouzla s chemií
-• Stavba raket, testy pohonů a soutěžní letecký den
-• Šicí a vyšívací dílna,
-• Venkovní aktivity, orientační běh, lukostřelba, drony.
-- **Konzultační a servisní koutek** Přivezte si, co vám nefunguje. Specialisté IoT labu se pokusí vaše nefunkční elektronické zařízení
-opravit a zprovoznit. A možná vám ukáží jak na to.
+Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu jak může vypadat si zatím uděláte nejlépe nahlédnutím do [pozvnánek proběhlých ročníků](https://europen.cz/konference).
 
-
-Jak se přihlásit na seminář?
-{.h1}
-**Přihlašování bude k dispozici zhruba 8 týdnů před seminářem.**
+**Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 6. prosince 2024.**
 {{% /blocks/section %}}
-
-
 
 {{% blocks/section %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
+**TODO** *Tady nějaké CFP, tedy popis témat, na které hledáme přednášející?*
 
-V Nečtinech může být aktivním účastníkem každý. Realizační skupina se ale musí zformovat předem, je třeba vše dohodnout, připravit, nakoupit materiál, vydat program. Proto se nám prosím *ozvěte, program vzniká už teď složením nápadů, času a nadšenectví*. 
+Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
+Nabídky a návrhy směřujte na předsedu programového výboru emailem zdenek.sustr@cesnet.cz.
 
 Programový výbor
 {.h2}
-Zdeněk Šustr
+**Zdeněk Šustr**, Jan Kynčl, Milan Michajlov, Vladimír Rudolf, Jakub Urbanec
 
 {{% /blocks/section %}}
-
 
 {{< blocks/section >}}
 
@@ -98,7 +72,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena semináře?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 400 Kč pro nečleny a 350 Kč pro členy, děti do 4 let zdarma. Ceny ubytování a stravy v přihlašovacím formuláři vycházejí z následujících jednotkových cen: ubytování 390 Kč za noc, snídaně 140 Kč, oběd 180 Kč, večeře 160 Kč, svačina 100 Kč. Bankovní spojení a variabilní symbol platby Vám po kontrole přihlášky bude zaslán e-mailem. Doklad o zaplacení zašleme v rámci vyúčtování po skončení semináře.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 800 Kč pro nečleny a 600 Kč pro členy sdružení EurOpen.CZ.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
