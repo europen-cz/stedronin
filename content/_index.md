@@ -45,8 +45,7 @@ Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu j
 {{% blocks/section %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
-Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vzniknul jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu z humanitních a přírodovědných oborů, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle
-technicky složité "průšvihy a trendy" z kyberbezpečnosti.
+Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy“ v kyberbezpečnosti.
 
 Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
 Nabídky a návrhy směřujte na předsedu programového výboru emailem zdenek.sustr@cesnet.cz.
