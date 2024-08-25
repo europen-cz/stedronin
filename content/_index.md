@@ -37,7 +37,7 @@ Formát semináře
 
 Program
 {.h3}
-Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu jak může vypadat si zatím uděláte nejlépe nahlédnutím do [pozvnánek proběhlých ročníků](https://europen.cz/konference).
+Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu jak může vypadat si zatím uděláte nejlépe nahlédnutím do [pozvánek proběhlých ročníků](https://europen.cz/konference).
 
 **Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 6. prosince 2024.**
 {{% /blocks/section %}}
