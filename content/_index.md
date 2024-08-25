@@ -45,7 +45,8 @@ Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu j
 {{% blocks/section %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
-**TODO** *Tady nějaké CFP, tedy popis témat, na které hledáme přednášející?*
+Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vzniknul jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu z humanitních a přírodovědných oborů, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle
+technicky složité "průšvihy a trendy" z kyberbezpečnosti.
 
 Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
 Nabídky a návrhy směřujte na předsedu programového výboru emailem zdenek.sustr@cesnet.cz.
@@ -73,6 +74,15 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 {{< /collapse/above >}}
 {{< collapse/below >}}
 Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 800 Kč pro nečleny a 600 Kč pro členy sdružení EurOpen.CZ.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Jaké jsou podmínky pro přednášející?**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Za přednášku náleží autorovi honorář, pořadatel hradí i ubytování a stravu. Délka přednášky se očekává 50-60 minut. Účastníci si velmi cení, pokud přednášející zůstane alespoň na část neformální diskuze, která probíhá po večeři.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
