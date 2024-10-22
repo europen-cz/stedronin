@@ -33,11 +33,29 @@ Formát semináře
 {.h3}
 - **Příjezd** seminář začíná v pátek obědem, plánovaný příjezd účastníků je v 11:30h. Seminář je zahájen po obědě ve 13h.
 - **Přednášky** *probíhají od 13h do večeře*.  Součástí programu je přestávka s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
-- **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi).
+- **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích může být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
 Program
 {.h3}
-Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu jak může vypadat si zatím uděláte nejlépe nahlédnutím do [pozvánek proběhlých ročníků](https://europen.cz/konference).
+Předběžný program:
+
+|Čas      | Mezioborový seminář Štědronín 2024| Přednášející   |
+| :-----: | :----------------------------: | :----: |
+| 11:30 |   Oběd | |
+| 12:30 |   Welcome drink | Zdeněk Šustr |
+| 12:35 |   **Stav informační bezpečnosti dnes ráno** | Radoslav Bodó, Jakub Urbanec |
+| 13:30 |   **Newyorkské mrakodrapy** | Zdeněk Lukeš |
+| 14:30 |   Kávová přestávka | |
+| 14:45 |   **Algoritmizace volného létání** | Karel Vrbenský |
+| 15:45 |   **Operace Zlomený šíp** | Jaroslav Houdek |
+| 16:45 |   Lehké občerstvení | |
+| 17:00 |   **Proteázy: od základní biologie k diagnostice a léčbě rakoviny** | Petr Bušek |
+| 18:00 |   **Vlci** | Roman Žaloudek |
+| 19:00 |   **Nález Žižkových ostatků v Čáslavi r. 1910** | Zdeněk Šustr |
+| 20:00 |   Večeře formou bufetu a neformální diskuse k předneseným tématům, noční sekce.| |
+|       |   **Sobota** | |
+|  8:30 |   Snídaně | |
+|       |   Volitelně práce v sekcích| |
 
 **Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 6. prosince 2024.**
 {{% /blocks/section %}}
@@ -45,7 +63,9 @@ Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu j
 {{% blocks/section %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
-Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy“ v kyberbezpečnosti.
+Program pro rok 2024 je již připraven, přijímáme návrhy na rok 2025. Děkujeme!
+
+Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy“ v kyberbezpečnosti. Přestavu jak může program vypadat si zatím uděláte nejlépe nahlédnutím do [pozvánek proběhlých ročníků](https://europen.cz/konference).
 
 Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
 Nabídky a návrhy směřujte na předsedu programového výboru emailem zdenek.sustr@cesnet.cz.
