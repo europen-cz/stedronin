@@ -41,18 +41,17 @@ Předběžný program:
 
 |Čas      | Mezioborový seminář Štědronín 2024| Přednášející   |
 | :-----: | :----------------------------: | :----: |
-| 11:30 |   Oběd | |
-| 12:30 |   Welcome drink | Zdeněk Šustr |
-| 12:35 |   **Stav informační bezpečnosti dnes ráno** | Radoslav Bodó, Jakub Urbanec |
-| 13:30 |   **Newyorkské mrakodrapy** | Zdeněk Lukeš |
-| 14:30 |   Kávová přestávka | |
-| 14:45 |   **Algoritmizace volného létání** | Karel Vrbenský |
-| 15:45 |   **Operace Zlomený šíp** | Jaroslav Houdek |
-| 16:45 |   Lehké občerstvení | |
-| 17:00 |   **Proteázy: od základní biologie k diagnostice a léčbě rakoviny** | Petr Bušek |
-| 18:00 |   **Vlci** | Roman Žaloudek |
-| 19:00 |   **Nález Žižkových ostatků v Čáslavi r. 1910** | Zdeněk Šustr |
-| 20:00 |   Večeře formou bufetu a neformální diskuse k předneseným tématům, noční sekce.| |
+| 12:00 |   Welcome drink | Zdeněk Šustr |
+| 12:05 |   **Stav informační bezpečnosti dnes ráno** | Radoslav Bodó, Jakub Urbanec |
+| 13:00 |   **Proteázy: od základní biologie k diagnostice a léčbě rakoviny** | Petr Bušek |
+| 13:50 |   **Algoritmizace volného létání** | Karel Vrbenský |
+| 14:40 |   Kávová přestávka | |
+| 15:00 |   **Operace Zlomený šíp** | Jaroslav Houdek |
+| 15:50 |   **Nález Žižkových ostatků v Čáslavi r. 1910** | Zdeněk Šustr |
+| 16:40 |   Lehké občerstvení | |
+| 17:00 |   **Newyorkské mrakodrapy** | Zdeněk Lukeš |
+| 17:50 |   **Vlci** | Roman Žaloudek |
+| 19:30 |   Večeře formou bufetu a neformální diskuse k předneseným tématům, noční sekce.| |
 |       |   **Sobota** | |
 |  8:30 |   Snídaně | |
 |       |   Volitelně práce v sekcích| |
