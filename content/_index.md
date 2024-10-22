@@ -41,7 +41,7 @@ Předběžný program:
 
 |Čas      | Mezioborový seminář Štědronín 2024| Přednášející   |
 | :-----: | :----------------------------: | :----: |
-| 12:00 |   Welcome drink | Zdeněk Šustr |
+| 12:00 |   Welcome drink | |
 | 12:05 |   **Stav informační bezpečnosti dnes ráno** | Radoslav Bodó, Jakub Urbanec |
 | 13:00 |   **Proteázy: od základní biologie k diagnostice a léčbě rakoviny** | Petr Bušek |
 | 13:50 |   **Algoritmizace volného létání** | Karel Vrbenský |
