@@ -31,8 +31,8 @@ Co bude na programu?
 
 Formát semináře
 {.h3}
-- **Příjezd** seminář začíná v pátek obědem, plánovaný příjezd účastníků je v 11:30h. Seminář je zahájen po obědě ve 13h.
-- **Přednášky** *probíhají od 13h do večeře*.  Součástí programu je přestávka s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
+- **Příjezd** seminář začíná v pátek obědem v 11.00. Seminář začne po obědě ve 12.00.
+- **Přednášky** *probíhají od 12h do večeře*.  Součástí programu jsou přestávky s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
 - **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích může být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
 Program
