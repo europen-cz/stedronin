@@ -69,11 +69,15 @@ Pro přihlášení na mezioborový seminář Štědronín 2024 použijte násled
 
 <h1>Úvodník předsedy</h1>
 <b>Milí přátelé EurOpenu!</b>
-<br><br>
 <p>
-Tady budou vřelá slova předsedy.
-</p>
+Po loňské přestávce je nám potěšením znovu vás pozvat na jubilejní 20. mezioborový seminář, který proběhne v tradičním čase na tradičním místě. Tedy konkrétně na sv. Mikuláše v pensionu Fousek nad Orlickou přehradou.
+<br>
+Sezvali jsme pro vás opět přednášející z nejrůznějších oborů a nabídka je letos opravdu pestrá. Nechybí každoroční stálice štědronínského programu – Stav informační bezpečnosti v podání oblíbené dvojice Urbanec-Bodó. V dalších přednáškách se budou prolínat obory medicíny, biologie, letectví, architektury i historie v obvyklé směsi, do níž jsem tentokrát mimořádně přimíchal i svůj příspěvek.
+<br>
+Všichni přednášející byli řádně varováni, že závěrečným slajdem vystoupení nekončí, a že diskuse nad jejich tématem se mnohdy může protáhnout až do brzkých ranních hodin. Zúčastněte se jí i vy! Těšíme se!
 <br><br>
+Za organizační a programový výbor,
+</p>
 Zdeněk Šustr
 <br><br>
 
