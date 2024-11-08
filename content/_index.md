@@ -74,7 +74,19 @@ U každé přednášky je možno kliknutím na modrý trojúhelník získat anot
 **Stav informační bezpečnosti dnes ráno, Radoslav Bodó, Jakub Urbanec**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Anotace a CV
+Začali jsme v roce 2008 a přesto se pokusíme nebýt vyčpělí. Standardní příspěvek se bude
+již poněkolikáté věnovat stavu informační bezpečnosti. Dozvíte se, jaké průšvihy se tento rok
+udály ve světě IT. Pokusíme se, aby přednáška byla srozumitelná i pro posluchače, kteří
+přijeli převážně kvůli welcome drinku. Letošní přednáška byla opět testována na dětech,
+dorostu a učitelkách. Na zdraví!
+
+**Jakub Urbanec** je IT bezpečák. Pochází ze Západočeské univerzity. Rád Linux, Raspberry
+Pi a - přestože to do resumé nepatří – metal. Preferuje vi před emacs.
+
+**Radoslav Bodó** pracoval v Laboratoři počítačových systémů, Centra informatizace
+a výpočetní techniky jako správce operačních systémů Linux a distribuovaného výpočetního
+prostředí Orion, se specializací na oblast bezpečnosti IS a služeb na platformě Java.
+V současné době je zaměstnancem CESNET a nadále se zabývá bezpečností.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
