@@ -31,7 +31,7 @@ Co bude na programu?
 
 Formát semináře
 {.h3}
-- **Příjezd** seminář začíná v pátek obědem v 11.00. Program začne po obědě ve 12.00.
+- **Příjezd** seminář *začíná v pátek obědem v 11.00*. Program začne po obědě ve 12.00.
 - **Přednášky** *probíhají od 12h do večeře*.  Součástí programu jsou přestávky s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
 - **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích může být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
@@ -59,7 +59,93 @@ Předběžný program:
 **Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 6. prosince 2024.**
 {{% /blocks/section %}}
 
-{{% blocks/section %}}
+{{< blocks/section color="300" >}}
+<h1>Přednášky a přednášející podrobněji (anotace, CV)</h1>
+U každé přednášky je možno kliknutím na modrý trojúhelník získat anotaci přednášky a CV přednášejícího.
+<br><br>
+{{< collapse >}}
+{{< collapse/above >}}
+**Stav informační bezpečnosti dnes ráno, Radoslav Bodó, Jakub Urbanec**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Anotace a CV
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Proteázy: od základní biologie k diagnostice a léčbě rakoviny, Petr Bušek**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+V rámci přednášky se ponoříme do světa fascinujících molekulárních nástrojů – proteáz. Tyto enzymy jsou klíčové pro řadu biologických procesů a hrají také zásadní roli při vzniku a rozvoji mnoha onemocnění, včetně rakoviny. Prozkoumáme, jak dysregulovaná aktivita proteáz přispívá k růstu nádorů a metastazování, a podíváme se na jejich možné využití v diagnostice a léčbě nádorů. Od základních biologických aspektů se dostaneme až k nejnovějším inovacím v medicíně, které přinášejí nové možnosti v boji proti rakovině.
+
+**Petr Bušek** působí na 1. lékařské fakultě Univerzity Karlovy. Specializuje se na výzkum proteáz se zaměřením na jejich roli v patogenezi nádorů, především mozkových. Jeho výzkum usiluje o odhalení mechanismů, jimiž proteázy přispívají k rozvoji nádorů, a zároveň hledá nové možnosti jejich terapeutického cílení. Kromě toho se věnuje studiu nádorového mikroprostředí a jeho vlivu na nádorový růst. Vyučuje lékařskou biochemii a patobiochemii a dále pracuje jako lékař ve Všeobecné fakultní nemocnici.
+
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Algoritmizace volného létání, Karel Vrbenský**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Touha lidí létat je stará jako lidstvo samo, ale teprve relativně nedávné poznatky přírodních věd nám umožnily létat doopravdy. Jeden z nejdostupnějších, nejjednodušších a zároveň relativně bezpečných způsobů jak se vznést do výšin je využití padákového kluzáku - paragliding. Kus hadru, nějaké ty provázky a můžete vzlétnout tak, jak o tom staří řekové bájili, jak si to da Vinci představoval a jak o tom mnozí i dnes sní...
+
+Rád bych se s vámi podělil o trochu teorie a spoustu zážitků, které mi létání dalo.
+
+**Karel Vrbenský** se věnuje paraglidingu od roku 1996. Byl ve státní reprezentaci, účastnil se vícero mistrovství Evropy, světa a řady závodů světového poháru. Poté co založil rodinu se již mezinárodním závodům nevěnuje a létá "pouze" v rámci českého poháru paraglidingu.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Operace Zlomený šíp, Jaroslav Houdek**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+„Zlomený šíp“ je kódový název amerického ministerstva obrany pro incidenty, při kterých došlo ke ztrátě jaderné zbraně, ale bez nebezpečí rozpoutání jaderné války. Takových havárií se v průběhu studené války stala celá řada a několik z nich vydá na zábavné vyprávění.
+
+**Jaroslav Houdek** vystudoval obor Umělá inteligence na Katedře kybernetiky, Fakulty aplikovaných věd na Západočeské univerzitě. Většinu svého profesního života pracuje v ST Microelectronics, kde se věnuje aplikacím mikrokontrolerů v kryptografii, komunikaci a řízení.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Nález Žižkových ostatků v Čáslavi r. 1910, Zdeněk Šustr**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+V letošním roce jsme si připomněli 600. výročí úmrtí velkého českého vojevůdce Jana Žižky. Jeho ostatky, po staletí ztracené, byly snad nalezeny na konci roku 1910 v Čáslavi. Příběh však od počátku provázela řada kuriozit a kontroverzí, které v mnohém -- včetně personálního překryvu -- připomínají otázku rukopisů. Stejně jako ona, i otázka Žižkových ostatků je dnes asi, ale jen asi, za cenu vleklých sporů vyřešena. Podívejme se jak k památnému nálezu došlo, co mu předcházelo a co následovalo.
+
+**Zdeněk Šustr** je vzděláním softwarový inženýr a dokonce někdy v práci programuje, ale jen za odměnu. Jinak udivuje své okolí nevšedními koníčky jako jsou samotářská jízda na motocyklu, typografie, budování sbírky logaritmických pravítek, a k posledku též zpracování příběhů tzv. “malé historie”, k nimž se řadí i zmíněný příběh ostatků Žižkových.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Newyorkské mrakodrapy, Zdeněk Lukeš**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Přednáška představí na dobových i současných snímcích ikonické stavby, které vznikly v první polovině minulého století na newyorském Manhattanu. Řada z nich byla ve své době nejvyššími budovami světa, některé už bohužel neexisují. Často docházelo i ke kuriózním soubojům, která stavba bude nejvyšší, a to nejen mezi americkými městy, ale i v rámci Manhattanu. Budou představeni také tvůrci těchto pozoruhodných objektů, hlavní technická data staveb, jejich konstrukce, originální postupy i dobové komentáře. Na závěr budou prezentovány některé nerealizoané vize architektů.
+
+**Zdeněk Lukeš** (*1954 v Praze) je architekt a historik architektury, absolvent Fakulty architektury ČVUT. Od roku 1990 pracuje v Kanceláři prezidenta republiky. Je autorem řady výstav a publikací, odborných i populárně naučných statí o architektuře XIX. a XX. století. Pedagogicky působil na Umprum, Fakultě architektury v Liberci (děkan), New York University, nyní je docentem ČVUT v Praze.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+{{< collapse >}}
+{{< collapse/above >}}
+**Vlci, Roman Žaloudek**
+{{< /collapse/above >}}
+{{< collapse/below >}}
+Chcete se dozvědět více o životě těchto úžasných šelem? O vlčí smečce - rodině, jaké mají rituály, kde žijí, co a jak loví? Zajímá vás návrat vlka? Chcete vědět více o jejich rozšiřující se populaci v České republice a o problémech vyvstávajících s tím, že se tento náš staronový soused vrací na místa, kde po tisíciletí lovil a žil? Jak se daří zástupcům tzv. velkých šelem v člověkem přetvořené přírodě 21. století?
+
+Přijďte na přednášku **Romana Žaloudka**, velkého fandy vlků, který měl téměř dva roky možnost z pozice vedoucího návštěvnického centra studovat vlčí smečku ve výběhu Národního parku Šumava na Srní, kde žije v současnosti 13 vlků a kam chodí pravidelně za plot na návštěvu šumavští vlci divocí.
+{{< /collapse/below >}}
+{{< /collapse >}}
+
+
+
+{{< /blocks/section >}}
+
+{{% blocks/section color="secondary" %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
 Program pro rok 2024 je již připraven, přijímáme návrhy na rok 2025. Děkujeme!
@@ -75,7 +161,7 @@ Programový výbor
 
 {{% /blocks/section %}}
 
-{{< blocks/section >}}
+{{< blocks/section color="white" >}}
 
 {{< collapse >}}
 {{< collapse/above >}}
@@ -91,7 +177,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena semináře?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 800 Kč pro nečleny a 600 Kč pro členy sdružení EurOpen.CZ.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 900 Kč pro členy sdružení a 1100 Kč pro nečleny sdružení EurOpen.CZ. Stravování v pátek (oběd, dvě přestávky a přípitek, večeře formou rautu) stojí 1355 Kč. Ubytování z pátku na sobotu se snídaní stojí 850 Kč.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
@@ -103,5 +189,6 @@ Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 8
 Za přednášku náleží autorovi honorář, pořadatel hradí i ubytování a stravu. Délka přednášky se očekává 50-60 minut. Účastníci si velmi cení, pokud přednášející zůstane alespoň na část neformální diskuze, která probíhá po večeři.
 {{< /collapse/below >}}
 {{< /collapse >}}
+
 
 {{< /blocks/section >}}
