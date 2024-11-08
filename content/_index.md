@@ -66,7 +66,18 @@ Pro přihlášení na mezioborový seminář Štědronín 2024 použijte násled
 {{% /blocks/section %}}
 
 {{< blocks/section color="300" >}}
-<h1>Přednášky a přednášející podrobněji (anotace, CV)</h1>
+
+<h1>Úvodník předsedy</h1>
+<b>Milí přátelé EurOpenu!</b>
+<br><br>
+<p>
+Tady budou vřelá slova předsedy.
+</p>
+<br><br>
+Zdeněk Šustr
+<br><br>
+
+<h2>Přednášky a přednášející podrobněji (anotace, CV)</h2>
 U každé přednášky je možno kliknutím na modrý trojúhelník získat anotaci přednášky a CV přednášejícího.
 <br><br>
 {{< collapse >}}
