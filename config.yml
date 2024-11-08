@@ -12,10 +12,10 @@ menus:
       url: "https://www.europen.cz/"
     - name: Přihlásit se
       weight: 20
-      url: "/#td-block-2"
-    - name: Zapojit se
+      url: "https://form.simpleshop.cz/BRlbJ/buy/"
+    - name: Program
       weight: 30
-      url: "/#td-block-3"
+      url: "/#td-block-2"
     - name: O stránce
       weight: 40
       pageRef: /about

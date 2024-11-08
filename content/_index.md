@@ -5,11 +5,11 @@ description: Mezioborový seminář Štědronín 6. prosince 2024
 ---
 
 {{< blocks/cover title="Mezioborový seminář Štědronín 2024" image_anchor="top" height="auto" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="#td-block-2">
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/BRlbJ/buy/">
   Přihlásit se
 </a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-3">
-  Zapojit se
+<a class="btn btn-lg btn-secondary me-3 mb-4" href="#td-block-2">
+  Program
 </a>
 <p class="lead mt-3 mb-3 fw-bold">
 6. prosince 2024 <a href="http://zvikov.cz/">Štědronín</a>
@@ -56,7 +56,13 @@ Předběžný program:
 |  8:30 |   Snídaně | |
 |       |   Volitelně práce v sekcích| |
 
-**Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 6. prosince 2024.**
+<br><br>
+Pro přihlášení na mezioborový seminář Štědronín 2024 použijte následující tlačítko.
+
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/BRlbJ/buy/">
+  Přihlásit se
+</a>
+
 {{% /blocks/section %}}
 
 {{< blocks/section color="300" >}}
@@ -141,7 +147,12 @@ Přijďte na přednášku **Romana Žaloudka**, velkého fandy vlků, který mě
 {{< /collapse/below >}}
 {{< /collapse >}}
 
-
+<br><br>
+Pro přihlášení na mezioborový seminář Štědronín 2024 použijte následující tlačítko.
+<br><br>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/BRlbJ/buy/">
+  Přihlásit se
+</a>
 
 {{< /blocks/section >}}
 
