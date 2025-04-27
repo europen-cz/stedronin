@@ -1,5 +1,5 @@
 ---
-title: O stránce mezioborový seminář EurOpen.CZ Štědronín 2024
+title: O stránce mezioborový seminář EurOpen.CZ Štědronín 2025
 ---
 
 {{% blocks/section color="dark" %}}
