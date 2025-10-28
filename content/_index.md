@@ -37,9 +37,7 @@ Formát semináře
 
 Program
 {.h3}
-Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu jak může vypadat si zatím uděláte nejlépe nahlédnutím do [programu semináře 2024](/2024) a [pozvánek starších ročníků](https://europen.cz/konference).
-
-**Přihláška na seminář bude k dispozici zhruba 6-8 týdnů před seminářem. Zatím si rezervujte termín 28. listopadu 2025.**
+[Program letošního semináře je připraven](/2025) a v nejbližěí době se otevře i přihlašování. 
 
 {{% /blocks/section %}}
 
@@ -48,7 +46,7 @@ Konkrétní program pro letošní rok není zatím zcela připraven. Přestavu j
 Jak se mohu podílet na přípravě semináře?
 {.h1}
 
-Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy“ v kyberbezpečnosti. Přestavu jak může program vypadat si zatím uděláte nejlépe nahlédnutím do [programu semináře 2024](/2024) a [pozvánek starších ročníků](https://europen.cz/konference).
+Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy“ v kyberbezpečnosti. Přestavu jak může program vypadat si zatím uděláte nejlépe nahlédnutím do [programu semináře 2025](/2025) a [pozvánek starších ročníků](https://europen.cz/konference).
 
 Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
 Nabídky a návrhy směřujte na předsedu programového výboru emailem zdenek.sustr@cesnet.cz.
