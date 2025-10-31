@@ -90,8 +90,8 @@ Blackout se stal v kontextu nedávných rozsáhlých narušení spolehlivosti do
 Příspěvek si klade za ambici zajistit základní pojmovou a principiální osvětu, připomenout významné historické poruchy napájení elektřinou, které lze za blackout považovat, rekapitulaci završit přehledem letošních událostí ve Španělsku a v ČR a konečně otevřít úvahy o jejich společných rysech i konsekvencích pro další rozvoj provozu elektrizační soustavy. 
 
 **Karel Noháč** – Během své kariéry se autor zaměřil na uplatnění provázanosti jeho dvou odborných specializací, sice elektroenergetiky a výpočetní techniky. V prvotních výzkumných a aplikačních pracích se jednalo o softwarové řešení nástrojů pro výpočet chodu a spolehlivosti elektrizační soustavy, elektrotepelné výpočty apod. Postupně se těžiště přesunulo k složitým analýzám dynamických soustav energetických systémů pomocí matematických simulačních výpočtů a experimentálního ověřování s moderní měřící technikou. V praxi se nejčastěji jedná o výpočty přechodných dějů v elektrizační soustavě na numerických modelech. Jako nástroj nejčastěji používal software DYNAST, který sám rozšířil o animační výstupní prostředky pro prezentační účely, a především o knihovnu elektroenergetických podpůrných prvků. Mezi další prostředky kromě všeobecných (MATLAB, Simulink, Simscape) patří EMTP, PS-CAD a PowerFactory. Aktuálně tíhne k open source řešením, jako jsou vývojové prostředky python a Lazarus, platforma Jupyter notebook, nebo analytické simulační prostředí Modelica. V poslední době se kromě klíčových témat dále zaměřuje na tvorbu software pro výpočty vlivu venkovních vedení na blízké plynovody a problematiku projektového návrhu venkovních vedení. Okrajově se věnoval rovněž výpočtům a měřením v oblasti světelné techniky. Odborná výzkumná činnost určovala jeho pedagogický profil zaměřením na uplatňování nových informačních technologií a modelování v elektroenergetice.
-{{< collapse >}}
-{{< collapse/above >}}
+{{< /collapse/below >}}
+{{< /collapse >}}
 
 {{< collapse >}}
 {{< collapse/above >}}
