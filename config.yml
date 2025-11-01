@@ -13,9 +13,9 @@ menus:
     - name: Program
       weight: 20
       url: "/#td-block-2"
-    - name: Zapojit se
+    - name: Přihlásit se
       weight: 30
-      url: "/#td-block-3"
+      url: "https://form.simpleshop.cz/ND23E/buy/"
     - name: O stránce
       weight: 40
       pageRef: /about
