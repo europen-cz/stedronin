@@ -55,7 +55,7 @@ Program
 
 
 <br><br>
-Pro přihlášení na mezioborový seminář Štědronín 2025 použijte následující tlačítko.
+Pro přihlášení na mezioborový seminář Štědronín 2025 použijte následující tlačítko. Pro podrobnější informace čtěte dále, každá přednáška a její přednášející mají níže svoji sekci s podrobnou informací.
 
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://form.simpleshop.cz/ND23E/buy/">
   Přihlásit se
