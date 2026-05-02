@@ -1,8 +1,8 @@
 baseURL: "https://a.sitera.org/"
 languageCode: cs-CZ
 DefaultContentLanguage: cs
-title: Mezioborový seminář Štědronín 2025
-description: Mezioborový seminář Štědronín 28. listopadu 2025
+title: Mezioborový seminář Štědronín 2026
+description: Mezioborový seminář Štědronín 27. listopadu 2026
 author: Jiří Sitera
 
 menus:
@@ -13,15 +13,15 @@ menus:
     - name: Program
       weight: 20
       url: "/#td-block-2"
-    - name: Přihlásit se
+    - name: Zapojit se
       weight: 30
-      url: "https://form.simpleshop.cz/ND23E/buy/"
+      url: "/#td-block-3"
     - name: O stránce
       weight: 40
       pageRef: /about
 
 params:
-  subtitle: Multioborový seminář Štědronín 28. listopadu 2025
+  subtitle: Mezioborový seminář Štědronín 27. listopadu 2026
   ui:
     footer_about_disable: false
     navbar_logo: false

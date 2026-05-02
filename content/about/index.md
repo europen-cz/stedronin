@@ -1,5 +1,5 @@
 ---
-title: O stránce mezioborový seminář EurOpen.CZ Štědronín 2025
+title: O stránce mezioborový seminář EurOpen.CZ Štědronín 2026
 ---
 
 {{% blocks/section color="dark" %}}
@@ -17,6 +17,7 @@ Nové webové stránky navrhl a realizoval [Jiří Sitera](https://siterovi.cz/j
 
 ## Historie
 
+- [Mezioborový seminář Štědronín 2025](/2025)
 - [Mezioborový seminář Štědronín 2024](/2024)
 
 ## Credits

@@ -1,3 +1,6 @@
 .hugo_build.lock
 /resources/_gen/
 /public/
+/bin/
+/node_modules/
+package-lock.json
