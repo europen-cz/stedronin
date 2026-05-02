@@ -10,12 +10,6 @@ Toto je stránka semináře, který proběhl 28. listopadu 2025
 </p>
 {{< /blocks/cover >}}
 
-{{< blocks/lead color="primary" >}}
-
-{{< carousel items="2" height="30" unit="%" duration="3000" >}}
-
-{{< /blocks/lead >}}
-
 {{% blocks/section %}}
 Co bylo na programu?
 {.h1}
