@@ -1,0 +1,15 @@
+.td-navbar-cover.td-navbar-transparent {
+  background-color: transparent;
+  --td-navbar-backdrop-filter: none;
+  backdrop-filter: none !important;
+  border-bottom: none;
+
+  .nav-link {
+    --bs-nav-link-color: #fff;
+    --bs-nav-link-hover-color: #fff;
+  }
+
+  .navbar-brand__name {
+    color: #fff;
+  }
+}
