@@ -67,6 +67,17 @@
   .td-cover-block {
     padding-top: 8rem !important;
   }
+
+  // Very narrow screens: shrink brand name so it fits next to hamburger
+  @include media-breakpoint-down(sm) {
+    .td-navbar .navbar-brand__name {
+      font-size: 0.9rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: calc(100vw - 4rem);
+    }
+  }
 }
 
 // Desktop: always show menu inline, start right after the brand name
