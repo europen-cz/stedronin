@@ -1,5 +1,6 @@
+// Transparent navbar over cover image — all breakpoints
 .td-navbar-cover.td-navbar-transparent {
-  background-color: transparent;
+  background-color: transparent !important;
   --td-navbar-backdrop-filter: none;
   backdrop-filter: none !important;
   border-bottom: none;
@@ -11,5 +12,92 @@
 
   .navbar-brand__name {
     color: #fff;
+  }
+}
+
+// Mobile navbar layout: hamburger + vertical menu
+@include media-breakpoint-down(md) {
+  .td-navbar {
+    // Position over the cover image so transparent bg shows the image
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 32;
+
+    .td-navbar-container {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .navbar-toggler {
+      border-color: rgba(255, 255, 255, 0.5);
+
+      .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.9%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+      }
+    }
+
+    .td-navbar__main {
+      width: 100%;
+      min-height: auto;
+      margin-top: 0.5rem;
+
+      &.collapse:not(.show) {
+        display: none !important;
+      }
+
+      &.collapse.show,
+      &.collapsing {
+        display: block !important;
+      }
+    }
+
+    .navbar-nav {
+      flex-direction: column;
+      overflow-x: visible;
+    }
+
+    .scroll-indicator {
+      display: none !important;
+    }
+  }
+
+  // Push cover title down so it's not hidden behind the absolute navbar
+  .td-cover-block {
+    padding-top: 8rem !important;
+  }
+}
+
+// Desktop: always show menu inline, start right after the brand name
+@include media-breakpoint-up(md) {
+  .td-navbar {
+    .td-navbar__main.td-navbar-nav-scroll {
+      &.collapse {
+        display: flex !important;
+      }
+
+      // Override Docsy's margin-left:auto and overflow:hidden so the menu
+      // sits right after the brand and never gets its own scrollbar
+      margin-left: 1rem !important;
+      max-width: none !important;
+      overflow: visible !important;
+      min-height: 0 !important;
+      font-size: inherit !important;
+    }
+
+    .navbar-nav {
+      overflow-x: visible !important;
+      flex-wrap: nowrap;
+    }
+
+    .navbar-toggler {
+      display: none;
+    }
+
+    // Hide the scroll-left/right chevrons entirely on desktop
+    .scroll-indicator {
+      display: none !important;
+    }
   }
 }
