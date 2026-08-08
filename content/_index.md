@@ -36,20 +36,28 @@ Program
 {.h3}
 Program připravujeme. V minulých letech jste se mohli těšit na přednášky z nejrůznějších oborů:
 
-- **Kyberbezpečnost** — Stav informační bezpečnosti, průšvihy a trendy roku (tradiční úvodní přednáška)
-- **Energetika** — Blackout v provozu elektrizační soustavy
-- **Biologie a příroda** — Sršeň asijská a další společenský hmyz, vlci, návrat velkých šelem, zrození eukaryotické buňky, obranné strategie termitů
-- **Medicína** — Kardiochirurgie, proteázy a diagnostika rakoviny, biomedicínský výzkum tkáňových náhrad, humanitární zdravotnická mise v rovníkové Africe
-- **Genetika** — Jak naše životy změní pokroky genetiky (CRISPR a další metody)
-- **Architektura a památková péče** — Newyorkské mrakodrapy (I. i II.), rekonstrukce podoby zámku Český Krumlov ve středověku
-- **Mezinárodní právo** — Tribunál k agresi proti Ukrajině
-- **Historie a politologie** — Nález Žižkových ostatků v Čáslavi, transformace po roce 1989
-- **Letectví a kosmonautika** — Algoritmizace volného létání, Operace Zlomený šíp, přistání lidí na Měsíci, vývoj a provoz CubeSat satelitů, Marsonaut – pěstování rostlin pro Mars
-- **Fyzika a klimatologie** — Změny klimatu jsou pravidlem, ne hrozbou
-- **Geologie** — Problémy s využíváním nových dat v geomorfologii (LIDAR, radar, termovize)
-- **Umění** — Stano Filko a jeho místo v dimenziách světa (slovenské konceptuální umění)
-- **Sport a dobrodružství** — Jak se leze na osmitisícovku
-- **Společnost** — Úroveň vzdělávání v ČR, úvaha o roli náboženství a církve, fyzická regenerace
+Přírodní vědy
+{.h4}
+- Biologie: sršeň asijská a další společenský hmyz, vlci, návrat velkých šelem, zrození eukaryotické buňky, obranné strategie termitů
+- Medicína: kardiochirurgie, proteázy a diagnostika rakoviny, biomedicínský výzkum tkáňových náhrad, humanitární zdravotnická mise v rovníkové Africe
+- Genetika: jak naše životy změní pokroky genetiky (CRISPR a další metody)
+- Geologie: problémy s využíváním nových dat v geomorfologii (LIDAR, radar, termovize)
+- Fyzika a klimatologie: změny klimatu jsou pravidlem, ne hrozbou
+
+Humanitní a společenské vědy
+{.h4}
+- Architektura a památková péče: newyorské mrakodrapy (I. i II.), rekonstrukce podoby zámku Český Krumlov ve středověku
+- Mezinárodní právo: tribunál k agresi proti Ukrajině
+- Historie a politologie: nález Žižkových ostatků v Čáslavi, transformace po roce 1989
+- Umění: Stano Filko a jeho místo v dimenziách světa (slovenská konceptuální umění)
+
+Technika a praxe
+{.h4}
+- Kyberbezpečnost: stav informační bezpečnosti, průšvihy a trendy roku (tradiční úvodní přednáška)
+- Energetika: blackout v provozu elektrizační soustavy
+- Letectví a kosmonautika: algoritmizace volného létání, Operace Zlomený šíp, přistání lidí na Měsíci, vývoj a provoz CubeSat satelitů, Marsonaut – pěstování rostlin pro Mars
+- Sport a dobrodružství: jak se leze na osmitisícovku
+- Společnost: úroveň vzdělávání v ČR, úvaha o roli náboženství a církve, fyzická regenerace
 
 Mezioborový seminář tradičně pokrývá širokou škálu témat — od techniky přes přírodní vědy až po humanitní obory. Program obvykle tvoří 5-7 přednášek po 50 minutách, proložených přestávkami. Přesný harmonogram a anotace zveřejníme předem.
 

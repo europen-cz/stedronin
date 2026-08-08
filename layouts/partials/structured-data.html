@@ -1,0 +1,80 @@
+{{ if .IsHome }}
+{{ $imgList := slice }}
+{{ range $.Site.Params.images }}
+  {{ if hasPrefix . "http" }}
+    {{ $imgList = $imgList | append . }}
+  {{ else }}
+    {{ $imgList = $imgList | append (urls.AbsURL .) }}
+  {{ end }}
+{{ end }}
+{{ $graph := slice
+  (dict
+    "@type" "Organization"
+    "@id" "https://www.europen.cz/#organization"
+    "name" "EurOpen.CZ"
+    "url" "https://www.europen.cz/"
+    "description" "Česká společnost uživatelů otevřených systémů"
+    "address" (dict
+      "@type" "PostalAddress"
+      "streetAddress" "Univerzitní 8"
+      "addressLocality" "Plzeň"
+      "postalCode" "306 14"
+      "addressCountry" "CZ"
+    )
+    "email" "europen@europen.cz"
+    "telephone" "377 632 804"
+    "taxID" "61389081"
+    "sameAs" (slice
+      "https://www.facebook.com/groups/199751946725860/"
+      "https://www.linkedin.com/groups/81933"
+      "https://github.com/europen-cz"
+      "https://groups.google.com/g/europen-cz"
+    )
+  )
+  (dict
+    "@type" "Event"
+    "name" "Mezioborový seminář EurOpen.CZ Štědronín 2026"
+    "description" "Páteční odpoledne plné inspirativních přednášek z různých oborů — kyberbezpečnost, biologie, medicína, letectví, historie a další. Seminář vznikl jako doplněk k odborným IT konferencím EurOpen.CZ s cílem udržet přehled o širším světě."
+    "url" $.Site.BaseURL
+    "startDate" "2026-11-27"
+    "endDate" "2026-11-27"
+    "eventStatus" "https://schema.org/EventScheduled"
+    "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
+    "location" (dict
+      "@type" "Place"
+      "name" "Penzion Fousek"
+      "url" "https://zvikov.cz/"
+      "address" (dict
+        "@type" "PostalAddress"
+        "streetAddress" "Štědronín 15"
+        "addressLocality" "Písek"
+        "postalCode" "397 01"
+        "addressCountry" "CZ"
+      )
+    )
+    "organizer" (dict
+      "@type" "Organization"
+      "@id" "https://www.europen.cz/#organization"
+      "name" "EurOpen.CZ"
+    )
+    "image" $imgList
+  )
+}}
+<script type="application/ld+json">
+{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify (dict "indent" "  ") | safeHTML }}
+</script>
+{{ else }}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "WebPage"
+  "name" .Title
+  "description" (.Description | default .Site.Params.description)
+  "url" .Permalink
+  "publisher" (dict
+    "@type" "Organization"
+    "@id" "https://www.europen.cz/#organization"
+    "name" "EurOpen.CZ"
+  ) | jsonify (dict "indent" "  ") | safeHTML }}
+</script>
+{{ end }}

@@ -1,8 +1,8 @@
-baseURL: "https://a.sitera.org/"
+baseURL: "https://stedronin.europen.cz/"
 locale: cs-CZ
 DefaultContentLanguage: cs
 title: Mezioborový seminář Štědronín 2026
-description: Mezioborový seminář Štědronín 27. listopadu 2026
+description: Mezioborový seminář EurOpen.CZ Štědronín 27. listopadu 2026 — páteční odpoledne plné inspirativních přednášek z různých oborů pro odborníky z IT i širokou veřejnost. Páteční seminář ve Zvíkově, Plzeňsko.
 author: Jiří Sitera
 
 menus:
@@ -22,6 +22,8 @@ menus:
 
 params:
   subtitle: Mezioborový seminář Štědronín 27. listopadu 2026
+  images:
+    - Stedronin-background.jpg
   ui:
     footer_about_enable: true
     navbar_logo: false
