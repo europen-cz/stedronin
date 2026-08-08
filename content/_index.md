@@ -61,13 +61,21 @@ Technika a praxe
 
 Mezioborový seminář tradičně pokrývá širokou škálu témat — od techniky přes přírodní vědy až po humanitní obory. Program obvykle tvoří 5-7 přednášek po 50 minutách, proložených přestávkami. Přesný harmonogram a anotace zveřejníme předem.
 
+Minulé ročníky
+{.h4 #minule-rocniky}
+Podívejte se, jak vypadaly programy a anotace přednášek v předchozích letech:
+
+- [Štědronín 2025](/2025/) — kyberbezpečnost, blackout v elektrizační soustavě, sršeň asijská, kardiochirurgie, newyorské mrakodrapy II, tribunál k agresi proti Ukrajině
+- [Štědronín 2024](/2024/) — kyberbezpečnost, proteázy a rakovina, paragliding, Operace Zlomený šíp, Žižkovy ostatky, newyorské mrakodrapy
+- [Ročníky 2003–2022](https://europen.cz/konference) — archiv starších ročníků na webu EurOpen.CZ (programy ve formátu PDF)
+
 {{% /blocks/section %}}
 
 {{% blocks/section color="secondary" %}}
 Jak se mohu podílet na přípravě semináře?
 {.h1}
 
-Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy" v kyberbezpečnosti. Přehled, jak může program vypadat, si uděláte nejlépe nahlédnutím do archivů předchozích ročníků ([2025](/2025), [2024](/2024) a [ještě starších](https://europen.cz/konference)).
+Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy" v kyberbezpečnosti. Přehled, jak může program vypadat, si uděláte nejlépe nahlédnutím do [archivů předchozích ročníků](#minule-rocniky).
 
 Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizační pomoc při přípravě semináře.
 Nabídky a návrhy směřujte na předsedu programového výboru emailem **zdenek.sustr@cesnet.cz**.
