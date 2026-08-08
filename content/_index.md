@@ -34,32 +34,34 @@ Formát semináře
 
 Program
 {.h3}
-Program připravujeme. V minulých letech jste se mohli těšit na přednášky z nejrůznějších oborů:
+Program připravujeme. Mezioborový seminář tradičně pokrývá širokou škálu témat — od techniky přes přírodní vědy až po humanitní obory. Program obvykle tvoří 5-7 přednášek po 50 minutách, proložených přestávkami. Přesný harmonogram a anotace zveřejníme předem.
+
+V minulých letech jste se mohli těšit na přednášky z nejrůznějších oborů:
 
 Přírodní vědy
 {.h4}
-- Biologie: sršeň asijská a další společenský hmyz, vlci, návrat velkých šelem, zrození eukaryotické buňky, obranné strategie termitů
-- Medicína: kardiochirurgie, proteázy a diagnostika rakoviny, biomedicínský výzkum tkáňových náhrad, humanitární zdravotnická mise v rovníkové Africe
-- Genetika: jak naše životy změní pokroky genetiky (CRISPR a další metody)
-- Geologie: problémy s využíváním nových dat v geomorfologii (LIDAR, radar, termovize)
-- Fyzika a klimatologie: změny klimatu jsou pravidlem, ne hrozbou
+- **Biologie**: sršeň asijská a další společenský hmyz, vlci, návrat velkých šelem, zrození eukaryotické buňky, obranné strategie termitů, chimérismus a mikrochimérismus, co nám říká evoluční biologie o současném lidstvu, život v jiných světech očima biologa
+- **Medicína**: kardiochirurgie, proteázy a diagnostika rakoviny, biomedicínský výzkum tkáňových náhrad, imunoterapie nádorových onemocnění, dechové testy v diagnostice nemocí trávicího traktu, humanitární zdravotnická mise v rovníkové Africe
+- **Genetika a genomika**: jak naše životy změní pokroky genetiky (CRISPR a další metody), vliv sekvenování lidského genomu a mikrobiomu na budoucnost medicíny
+- **Geologie**: problémy s využíváním nových dat v geomorfologii (LIDAR, radar, termovize)
+- **Klima a ekologie**: změny klimatu z různých perspektiv, ekologie, udržitelný rozvoj, adaptace, nové technologie
+- **Sociální a kulturní ekologie**: rétorika, vztah člověka a přírody, udržitelnost společnosti
 
 Humanitní a společenské vědy
 {.h4}
-- Architektura a památková péče: newyorské mrakodrapy (I. i II.), rekonstrukce podoby zámku Český Krumlov ve středověku
-- Mezinárodní právo: tribunál k agresi proti Ukrajině
-- Historie a politologie: nález Žižkových ostatků v Čáslavi, transformace po roce 1989
-- Umění: Stano Filko a jeho místo v dimenziách světa (slovenská konceptuální umění)
+- **Architektura a památková péče**: newyorské mrakodrapy (I. i II.), rekonstrukce podoby zámku Český Krumlov ve středověku
+- **Mezinárodní vztahy a právo**: tribunál k agresi proti Ukrajině, jak Západ ztratil Rusko, EU mezi USA a Ruskem, finančně úvěrová krize v Řecku
+- **Historie a politologie**: nález Žižkových ostatků v Čáslavi, revoluce 1989 — zvládli jsme ji, ale draze jsme za to zaplatili, transformace po roce 1989
+- **Společnost a média**: dezinformace jako boj o sociální realitu, fake news, nezávislá žurnalistika a teorie stupidity, politická (ne)korektnost, úroveň vzdělávání v ČR, úvaha o roli náboženství a církve
+- **Umění**: Stano Filko a jeho místo v dimenziách světa (slovenské konceptuální umění)
 
 Technika a praxe
 {.h4}
-- Kyberbezpečnost: stav informační bezpečnosti, průšvihy a trendy roku (tradiční úvodní přednáška)
-- Energetika: blackout v provozu elektrizační soustavy
-- Letectví a kosmonautika: algoritmizace volného létání, Operace Zlomený šíp, přistání lidí na Měsíci, vývoj a provoz CubeSat satelitů, Marsonaut – pěstování rostlin pro Mars
-- Sport a dobrodružství: jak se leze na osmitisícovku
-- Společnost: úroveň vzdělávání v ČR, úvaha o roli náboženství a církve, fyzická regenerace
-
-Mezioborový seminář tradičně pokrývá širokou škálu témat — od techniky přes přírodní vědy až po humanitní obory. Program obvykle tvoří 5-7 přednášek po 50 minutách, proložených přestávkami. Přesný harmonogram a anotace zveřejníme předem.
+- **Kyberbezpečnost**: stav informační bezpečnosti, průšvihy a trendy roku (tradiční úvodní přednáška)
+- **Energetika**: blackout v provozu elektrizační soustavy
+- **Letectví a kosmonautika**: algoritmizace volného létání, Operace Zlomený šíp, přistání lidí na Měsíci, vývoj a provoz CubeSat satelitů, Marsonaut – pěstování rostlin pro Mars, oheň na Měsíci
+- **Sport a dobrodružství**: jak se leze na osmitisícovku
+- **Ekonomie a management**: The President — simulace americké ekonomiky a politiky, rektorem na ZČU — rekapitulace po dvou volebních obdobích
 
 Minulé ročníky
 {.h4 #minule-rocniky}
