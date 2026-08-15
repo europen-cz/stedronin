@@ -61,11 +61,11 @@
   )
 }}
 <script type="application/ld+json">
-{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify (dict "indent" "  ") | safeHTML }}
+{{ $payload := dict "@context" "https://schema.org" "@graph" $graph }}{{ jsonify (dict "indent" "  ") $payload | safeJS }}
 </script>
 {{ else }}
 <script type="application/ld+json">
-{{ dict
+{{ $payload := dict
   "@context" "https://schema.org"
   "@type" "WebPage"
   "name" .Title
@@ -75,6 +75,6 @@
     "@type" "Organization"
     "@id" "https://www.europen.cz/#organization"
     "name" "EurOpen.CZ"
-  ) | jsonify (dict "indent" "  ") | safeHTML }}
+  ) }}{{ jsonify (dict "indent" "  ") $payload | safeJS }}
 </script>
 {{ end }}
