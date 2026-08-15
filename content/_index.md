@@ -23,23 +23,19 @@ Mezioborový seminář ve Štědroníně je skvělá příležitost věnovat pá
 {{< /blocks/lead >}}
 
 {{% blocks/section %}}
-Co bude na programu?
-{.h1}
+## Co bude na programu?
 
-Formát semináře
-{.h3}
+### Formát semináře
 - **Příjezd** seminář *začne v pátek 27. listopadu 2026 obědem v 11.00*. Program začne po obědě ve 12.00.
 - **Přednášky** *probíhají od 12h do večeře*.  Součástí programu jsou přestávky s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
 - **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích může být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
-Program
-{.h3}
+### Program
 Program připravujeme. Mezioborový seminář tradičně pokrývá širokou škálu témat — od techniky přes přírodní vědy až po humanitní obory. Program obvykle tvoří 5-7 přednášek po 50 minutách, proložených přestávkami. Přesný harmonogram a anotace zveřejníme předem.
 
 V minulých letech jste se mohli těšit na přednášky z nejrůznějších oborů:
 
-Přírodní vědy
-{.h4}
+#### Přírodní vědy
 - **Biologie**: sršeň asijská a další společenský hmyz, vlci, návrat velkých šelem, zrození eukaryotické buňky, obranné strategie termitů, chimérismus a mikrochimérismus, co nám říká evoluční biologie o současném lidstvu, život v jiných světech očima biologa
 - **Medicína**: kardiochirurgie, proteázy a diagnostika rakoviny, biomedicínský výzkum tkáňových náhrad, imunoterapie nádorových onemocnění, dechové testy v diagnostice nemocí trávicího traktu, humanitární zdravotnická mise v rovníkové Africe
 - **Genetika a genomika**: jak naše životy změní pokroky genetiky (CRISPR a další metody), vliv sekvenování lidského genomu a mikrobiomu na budoucnost medicíny
@@ -47,24 +43,21 @@ Přírodní vědy
 - **Klima a ekologie**: změny klimatu z různých perspektiv, ekologie, udržitelný rozvoj, adaptace, nové technologie
 - **Sociální a kulturní ekologie**: rétorika, vztah člověka a přírody, udržitelnost společnosti
 
-Humanitní a společenské vědy
-{.h4}
+#### Humanitní a společenské vědy
 - **Architektura a památková péče**: newyorské mrakodrapy (I. i II.), rekonstrukce podoby zámku Český Krumlov ve středověku
 - **Mezinárodní vztahy a právo**: tribunál k agresi proti Ukrajině, jak Západ ztratil Rusko, EU mezi USA a Ruskem, finančně úvěrová krize v Řecku
 - **Historie a politologie**: nález Žižkových ostatků v Čáslavi, revoluce 1989 — zvládli jsme ji, ale draze jsme za to zaplatili, transformace po roce 1989
 - **Společnost a média**: dezinformace jako boj o sociální realitu, fake news, nezávislá žurnalistika a teorie stupidity, politická (ne)korektnost, úroveň vzdělávání v ČR, úvaha o roli náboženství a církve
 - **Umění**: Stano Filko a jeho místo v dimenziách světa (slovenské konceptuální umění)
 
-Technika a praxe
-{.h4}
+#### Technika a praxe
 - **Kyberbezpečnost**: stav informační bezpečnosti, průšvihy a trendy roku (tradiční úvodní přednáška)
 - **Energetika**: blackout v provozu elektrizační soustavy
 - **Letectví a kosmonautika**: algoritmizace volného létání, Operace Zlomený šíp, přistání lidí na Měsíci, vývoj a provoz CubeSat satelitů, Marsonaut – pěstování rostlin pro Mars, oheň na Měsíci
 - **Sport a dobrodružství**: jak se leze na osmitisícovku
 - **Ekonomie a management**: The President — simulace americké ekonomiky a politiky, rektorem na ZČU — rekapitulace po dvou volebních obdobích
 
-Minulé ročníky
-{.h4 #minule-rocniky}
+#### Minulé ročníky {#minule-rocniky}
 Podívejte se, jak vypadaly programy a anotace přednášek v předchozích letech:
 
 - [Štědronín 2025](/2025/) — kyberbezpečnost, blackout v elektrizační soustavě, sršeň asijská, kardiochirurgie, newyorské mrakodrapy II, tribunál k agresi proti Ukrajině
@@ -74,8 +67,7 @@ Podívejte se, jak vypadaly programy a anotace přednášek v předchozích lete
 {{% /blocks/section %}}
 
 {{% blocks/section color="secondary" %}}
-Jak se mohu podílet na přípravě semináře?
-{.h1}
+## Jak se mohu podílet na přípravě semináře?
 
 Přednášky na mezioborovém semináři EurOpen.CZ Štědronín obvykle pokrývají širokou škálu témat, která odrážejí současné trendy a výzvy ve vědě a společnosti. Seminář vznikl jako doplněk k odborným IT konferencím, které sdružení uživatelů otevřených systémů EurOpen.CZ pořádá. Hlavní cíl, poskytnout lidem z oboru informačních technologií příležitost k udržení přehledu o humanitních a přírodovědných oborech, je doplněn záměrem uspořádat příjemné a odpočinkové odpoledne v jinak uspěchané předvánoční době. Seminář tradičně začíná IT přednáškou, která se zaměřuje na populární náhled na nové a obvykle technicky složité „průšvihy a trendy" v kyberbezpečnosti. Přehled, jak může program vypadat, si uděláte nejlépe nahlédnutím do [archivů předchozích ročníků](#minule-rocniky).
 
@@ -83,8 +75,7 @@ Předem děkujeme za návrhy přednášek, nápady koho oslovit i za organizačn
 Nabídky a návrhy směřujte na předsedu programového výboru emailem **zdenek.sustr@cesnet.cz**.
 
 
-Programový výbor
-{.h2}
+### Programový výbor
 **Zdeněk Šustr**, Jan Kynčl, Vladimír Rudolf, Jakub Urbanec
 
 {{% /blocks/section %}}
