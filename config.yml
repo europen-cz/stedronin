@@ -23,7 +23,7 @@ menus:
 params:
   subtitle: Mezioborový seminář Štědronín 27. listopadu 2026
   images:
-    - Stedronin-background.jpg
+    - stedronin-social-card.jpg
   ui:
     footer_about_enable: true
     navbar_logo: false
