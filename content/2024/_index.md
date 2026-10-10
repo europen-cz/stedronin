@@ -18,17 +18,14 @@ Mezioborový seminář ve Štědroníně je skvělá příležitost věnovat pá
 {{< /blocks/lead >}}
 
 {{% blocks/section %}}
-Co bylo na programu?
-{.h1}
+## Co bylo na programu?
 
-Formát semináře
-{.h3}
+### Formát semináře
 - **Příjezd** seminář *začíná v pátek obědem v 11.00*. Program začne po obědě ve 12.00.
 - **Přednášky** *probíhají od 12h do večeře*.  Součástí programu jsou přestávky s občerstvením. Seminář probíhá v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře je podávána formou bohatého rautu, předpokládá se následující diskuze trvající do pozdních nočních hodin.
 - **Sobota** *ráno je připravena snídaně, poté následuje individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích může být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
-Program
-{.h3}
+### Program
 
 |Čas      | Mezioborový seminář Štědronín 2024| Přednášející   |
 | :-----: | :----------------------------: | :----: |

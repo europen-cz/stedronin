@@ -17,10 +17,10 @@
     "hugo-extended": "0.162.1",
     "postcss-cli": "^11.0.0"
   },
-  "homepage": "https://nectiny.europen.cz/",
+  "homepage": "https://stedronin.europen.cz/",
   "license": "Apache-2.0",
   "name": "Konference EurOpen.CZ",
-  "repository": "github:civenka/civenka.github.io",
+  "repository": "github:europen-cz/stedronin",
   "scripts": {
     "_build": "npm run _hugo-dev --",
     "_check:links": "echo IMPLEMENTATION PENDING for check-links; echo",
