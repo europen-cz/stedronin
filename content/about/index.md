@@ -4,7 +4,7 @@ title: O stránce mezioborový seminář EurOpen.CZ Štědronín 2026
 
 {{% blocks/section color="dark" %}}
 # EurOpen.CZ
-Česká společnost uživatelů otevřených systémů [EurOpen.CZ](https://www.europen.cz/) je nezisková organizace, jejímž cílem je *seznamovat odbornou veřejnost s otevřenými řešeními a podporovat jejich používání*. Pořádáme pravidelné konference a věnujeme se rozvoji komunity. Vítáme každého, kdo se libovolným způsobem zapojí. Kromě [technické konference](https://56.europen.cz/) pořádáme v září [víkendový seminář pro malé i velké](https://nectiny.europen.cz) a v prosinci [mezioborový seminář](https://www.europen.cz/node/90).
+Česká společnost uživatelů otevřených systémů [EurOpen.CZ](https://www.europen.cz/) je nezisková organizace, jejímž cílem je *seznamovat odbornou veřejnost s otevřenými řešeními a podporovat jejich používání*. Pořádáme pravidelné konference a věnujeme se rozvoji komunity. Vítáme každého, kdo se libovolným způsobem zapojí. Kromě [technické konference](https://56.europen.cz/) pořádáme v září [víkendový seminář pro malé i velké](https://nectiny.europen.cz) a na konci listopadu [mezioborový seminář](https://www.europen.cz/node/90).
 
 Název [EurOpen](https://www.europen.cz/) je složen ze slov  **evropský** a **otevřený**, vlastně je to zkratka z **EuroOpen**. Český EurOpen má za sebou dlouhou historii v níž hrálo důležitou roli sdružení [USENIX](https://www.usenix.org/).
 {{% /blocks/section %}}
@@ -21,7 +21,7 @@ Nové webové stránky navrhl a realizoval [Jiří Sitera](https://siterovi.cz/j
 - [Mezioborový seminář Štědronín 2024](/2024)
 
 ## Credits
-Fotografie [Jiří Sitera](https://siterovi.cz/jiri/), Vladimír Rudolf, Jakub Ubranec
+Fotografie [Jiří Sitera](https://siterovi.cz/jiri/), Vladimír Rudolf, Jakub Urbanec
 
 {{% /blocks/section %}}
 
