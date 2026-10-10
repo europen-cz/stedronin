@@ -11,17 +11,14 @@ Toto je stránka semináře, který proběhl 28. listopadu 2025
 {{< /blocks/cover >}}
 
 {{% blocks/section %}}
-Co bylo na programu?
-{.h1}
+## Co bylo na programu?
 
-Formát semináře
-{.h3}
+### Formát semináře
 - **Příjezd** seminář *začínal v pátek 28. listopadu 2025 obědem v 11.00*. Program začal po obědě ve 12.00.
 - **Přednášky** *probíhaly od 12h do večeře*.  Součástí programu byly přestávky s občerstvením. Seminář probíhal v příjemném prostředí restaurace/baru s krbem o kapacitě zhruba 50 účastníků. Večeře byla podávána formou bohatého rautu, následovala diskuze trvající do pozdních nočních hodin.
 - **Sobota** *ráno byla připravena snídaně, poté následoval individuální program*. [Popis okolí a možných výletů](https://www.kudyznudy.cz/kam-pojedete/jihocesky-kraj/pisecko-blatensko/zvikovske-podhradi). Práce v sekcích mohla být spojena s prohlídkou exteriérů hradu Zvíkova a interiérů pivovaru ve Zvíkovském Podhradí.
 
-Program
-{.h3}
+### Program
  |Čas      | Mezioborový seminář Štědronín 2025| Přednášející   |
 | :-----: | :----------------------------: | :----: |
 | 12:00 |   Welcome drink | |
