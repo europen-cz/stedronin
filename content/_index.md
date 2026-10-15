@@ -221,7 +221,7 @@ Hlavní kontakt je: Anna Šlosarová, EurOpen.CZ, Univerzitní 8, 306 14 Plzeň,
 **Jaká je cena semináře?**
 {{< /collapse/above >}}
 {{< collapse/below >}}
-Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 1200 Kč pro členy sdružení a 1400 Kč pro nečleny sdružení EurOpen.CZ. Stravování v pátek (oběd, dvě přestávky a přípitek, večeře formou rautu) stojí 1820 Kč. Ubytování z pátku na sobotu se snídaní stojí 990 Kč.
+Cena se skládá z vložného a nákladů na stravu a ubytování. Vložné je 1200 Kč pro členy sdružení a 1400 Kč pro nečleny sdružení EurOpen.CZ. Stravování v pátek (oběd, dvě přestávky a přípitek, večeře formou rautu) stojí 1800 Kč. Ubytování z pátku na sobotu se snídaní stojí 990 Kč.
 {{< /collapse/below >}}
 {{< /collapse >}}
 
