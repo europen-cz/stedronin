@@ -15,14 +15,14 @@ menus:
       url: "/#td-block-2"
     - name: Přihlásit se
       weight: 30
-      url: "/#prihlaska" # TODO: odkaz na přihlášku, stejný jako params.registration_url
+      url: "https://form.simpleshop.cz/YPKAO/" # stejný jako params.registration_url
     - name: O stránce
       weight: 40
       pageRef: /about
 
 params:
-  # TODO: odkaz na přihlášku 2026 (použit v content/_index.md přes {{< param registration_url >}})
-  registration_url: "/#prihlaska"
+  # odkaz na přihlášku 2026 (použit v content/_index.md přes {{< param registration_url >}})
+  registration_url: "https://form.simpleshop.cz/YPKAO/"
   subtitle: Mezioborový seminář Štědronín 27. listopadu 2026
   images:
     - stedronin-social-card.jpg
